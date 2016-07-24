@@ -1,0 +1,13 @@
+{
+  "name": "svg-sprite-generator",
+  "version": "1.0.0",
+  "description": "Generate an svg spritesheet with gulp",
+  "author": "Liem Pham",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^2.2.1",
+    "gulp": "^3.9.1",
+    "gulp-svgmin": "^1.2.2",
+    "gulp-svgstore": "^6.0.0"
+  }
+}
