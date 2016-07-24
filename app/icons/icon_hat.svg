@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8 (29681) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill-rule="evenodd">
+        <g id="Artboard-1" fill="#000000">
+            <g id="student" transform="translate(0.000000, 14.000000)">
+                <polygon id="Fill-1" points="59 0.644736842 0.210347826 32.8815789 59 65.1184211 117.789652 32.8815789"></polygon>
+                <polygon id="Fill-2" points="96.406 53.3016842 59 75.8674737 21.594 53.3016842 21.594 76.9351579 59 97.3552632 96.406 76.9351579"></polygon>
+                <polygon id="Fill-3" points="107.097826 75.8674737 117.789652 75.8674737 117.789652 32.8815789 107.097826 32.8815789"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
